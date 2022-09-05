@@ -1,0 +1,39 @@
+* { border-radius: 0 !important; }
+
+.nav-item {
+    line-height: 98%;
+    margin-right: 30px;
+}
+
+.nav-item:hover,  .nav-item:focus,  .nav-item:active {
+    background-color: rgb(232,232,232) !important;
+}
+
+.form-control, .form-check-label { font-size: .9rem; }
+
+textarea { height: auto; }
+
+h1, h2, h3 { font-weight: normal; }
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover, a:focus, a:active { color: gray; }
+
+.carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+d-flex{ gap:20px; }
+
+border-categorybox {
+    border-width:2px !important;
+    border-color: RGB(248,249,250);
+}
+
+ul.flavors li { line-height: 98%; }
